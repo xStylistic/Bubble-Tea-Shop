@@ -705,9 +705,9 @@ public class MakingPurchases extends javax.swing.JFrame {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JPanel background;
+    private javax.swing.JPanel billPanel;
     private javax.swing.JPanel billPanel1;
     private javax.swing.JPanel billPanel2;
-    private javax.swing.JPanel billPanel3;
     private javax.swing.JButton btnCheckout;
     private javax.swing.JButton btnClear;
     private javax.swing.JLabel lblGrandTotal;
