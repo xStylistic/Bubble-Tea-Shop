@@ -1,14 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 /* 
  * Created by Bonny Chen 
  * ICS3U1
  * April 29th, 2021
  */
+
 public class MakingPurchases extends javax.swing.JFrame {
 
     /**
@@ -710,14 +705,11 @@ public class MakingPurchases extends javax.swing.JFrame {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JPanel background;
-    private javax.swing.JPanel billPanel;
     private javax.swing.JPanel billPanel1;
     private javax.swing.JPanel billPanel2;
+    private javax.swing.JPanel billPanel3;
     private javax.swing.JButton btnCheckout;
     private javax.swing.JButton btnClear;
-    private javax.swing.JLabel jLabel1;
-    private javax.swing.JTextField jTextField10;
-    private javax.swing.JTextField jTextField6;
     private javax.swing.JLabel lblGrandTotal;
     private javax.swing.JLabel lblGrassJelly;
     private javax.swing.JLabel lblInstructions1;
